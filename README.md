@@ -153,7 +153,7 @@ These are the dependencies that should be installed in your Node.js project:
         - Basic validation of fields before submission.
         - Success or error messages are displayed after form submission.
 		
-	**Validación y Manejo de Errores**.
+	**Validation and error handling**.
 		- Frontend Validation: Contact form field validation before sending data to the server.
         - Error Handling: An error message is displayed to the user in case of form submission errors.
         - User Interaction: Explains how users are expected to interact with the page (forms, buttons, etc.).
@@ -256,5 +256,5 @@ Maintenance:
     - Keep contact information and links up to date
     - Debugging the server
     - Adjust meta tags if necessary
-## 8. Licencia
-Licencia del Proyecto: Licencia Propietaria (Leer archivo "LICENSE" del repositorio)
+## 8. Licence
+Proyect licence: Propietary licence (read file "LICENSE" from the repository)
